@@ -1,0 +1,5 @@
+project: ps2sdk
+target: bin2s
+
+cmds:
+  - cmd: /bin2s @@ out label
